@@ -1,0 +1,90 @@
+/* * {
+    background-color: blueviolet;
+}
+
+.bg-color {
+    background-color: blue;
+}
+
+#main-title {
+    color: cornflowerblue;
+}
+
+h1 {
+    background-color: black;
+} */
+
+
+/* ul>li {
+    color: red;
+}
+
+div>p {
+    color: coral;
+} */
+
+
+/* div {
+    border: coral double;
+    background-color: crimson;
+    padding: 100px 0px 0px 100px;
+}
+
+img {
+    border-color: black;
+    border: solid;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;
+} */
+
+.box {
+    height: 250px;
+    width: 250px;
+}
+
+.img1 {
+    height: 100%;
+    width: 100%;
+    opacity: 0.2;
+}
+
+
+/* h1 {
+    text-transform: capitalize;
+    text-shadow: 3px 3px darkcyan;
+    line-height: 100px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+} */
+
+div {
+    /* overflow-y: scroll;
+    overflow-x: scroll; */
+    width: 200px;
+    height: 100px;
+}
+
+.img1:hover {
+    opacity: 1;
+}
+
+h1:hover {
+    color: darkmagenta;
+    text-shadow: 1px 1px 1px darkolivegreen;
+}
+
+li:first-child {
+    color: darkred;
+}
+
+p::first-letter {
+    font-size: 30px;
+    font-style: italic;
+}
+
+input:disabled {
+    background-color: red;
+}
